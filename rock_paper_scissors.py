@@ -52,7 +52,7 @@
 # else:
 #     print("something went wrong. Try again...Please!!!")
 
-# Version 3: Much cleaner and shorter (NO ERROR HANDLING)
+# Version 3: Much cleaner and shorter code (NO ERROR HANDLING)
 p1 = input("Player 1: rock, paper, or scissors ")
 p2 = input("Player 2: rock, paper, or scissors ")
  
